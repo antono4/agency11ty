@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/agency11ty"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/agency11ty-blue?logo=github"></a>
   <a href="https://antono4.github.io/agency11ty/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-81-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 09:22:04 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-13 09:29:09 WIB-lightgrey">
 </p>
 
 ---
@@ -63,4 +63,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-13 09:22:04 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-13 09:29:09 WIB** oleh GitHub Actions .</sub>
